@@ -1,5 +1,12 @@
 Steps to run:
 
+Watch live demo
+
+## https://collaborative-texteditor.herokuapp.com
+
+copy the created link with ID 
+Open another browser and paste the copied link You will see magic happens :-) 
+
 ## Step 1:
 https://dashboard.pusher.com/ create app using this url  just have to create an account and then create the app
 
