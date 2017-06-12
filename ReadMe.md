@@ -3,8 +3,10 @@ Steps to run:
 ## Step 1:
 https://dashboard.pusher.com/ create app using this url  just have to create an account and then create the app
 
-## Step 2:
-Now select the app you have created ,and then select app settings and ##Enable Client Events so you can listen to client events
+## Step 2: 
+Now select the app you have created ,and then select app settings and
+## Enable Client Events  
+so you can listen to client events
 
 ## Step 3:
 
