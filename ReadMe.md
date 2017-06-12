@@ -47,13 +47,15 @@ Replace this line according to Your app (select node as server)
      });
 
 
-##Step 6: cd Calloborative text editor
-
 ## Step 6:
+
+cd Calloborative text editor
+
+## Step 7:
 
 npm install
      
-## Step 7:
+## Step 8:
 npm start
 
 You can now see the demo
