@@ -17,13 +17,10 @@
 
   return new Promise(function (resolve, reject) {
     // subscribe to the changes via Pusher
-      var pusher = new Pusher('INSERT_YOUR_KEY_HERE', {
- 
-  	cluster: 'Your Api Cluster',
-  
-  	encrypted: true
-  
-	});
+     var pusher = new Pusher('f7123c9aaa5b7135d009', {
+      cluster: 'ap2',
+      encrypted: true
+    });
       console.log(pusher)
 
     var channel = pusher.subscribe(id);
