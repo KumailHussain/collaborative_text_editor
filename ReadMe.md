@@ -4,6 +4,9 @@ See Live demo :
 
   ## https://collaborative-texteditor.herokuapp.com
   
+ copyand paste the same address on browser/browser-abs
+ 
+  
   
 ## Step 1:
 https://dashboard.pusher.com/ create app using this url  just have to create an account and then create the app
